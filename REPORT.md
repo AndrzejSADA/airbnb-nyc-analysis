@@ -18,22 +18,22 @@
 
 ### A. Średnie ceny w dzielnicach i typy pokoi
 [cite_start]Analiza rozkładu cen pozwala zrozumieć, które segmenty rynku są najbardziej dochodowe[cite: 33].
-![Wykres 1 - Średnie ceny](image_2d6de7.png) 
+![Wykres 1 - Średnie ceny](wykres1.png) 
 [cite_start]*Wnioski: Segment "Hotel room" generuje najwyższe ceny, jednak dla inwestorów indywidualnych kluczowy pozostaje segment "Entire home/apt"[cite: 33].*
 
 ### B. Trend cenowy w czasie
 [cite_start]Badanie wpływu roku budowy nieruchomości na aktualne stawki rynkowe[cite: 34].
-![Wykres 2 - Trend budowy](image_2d6e1e.png)
+![Wykres 2 - Trend budowy](wykres2.png)
 [cite_start]*Wnioski: Ceny wykazują fluktuacje, ale nie są bezpośrednio skorelowane wyłącznie z najnowszym budownictwem[cite: 34].*
 
 ### C. Mapa Korelacji (Co wpływa na cenę?)
 [cite_start]Techniczna macierz korelacji odkrywająca powiązania między zmiennymi rynkowymi[cite: 34].
-![Wykres 3 - Mapa korelacji](image_2d6e5d.png)
+![Wykres 3 - Mapa korelacji](wykres3.png)
 [cite_start]*Wnioski: Odnotowano bardzo silną zależność między ceną a opłatą serwisową (service fee)[cite: 34].*
 
 ### D. Satysfakcja gości vs Cena
 [cite_start]Analiza rozkładu cen w relacji do ocen wystawianych przez użytkowników[cite: 35].
-![Wykres 4 - Zależność ceny od oceny](image_2d6e9f.png)
+![Wykres 4 - Zależność ceny od oceny](wykres4.png)
 [cite_start]*Wnioski: Mediana cen pozostaje stabilna na różnych poziomach ocen, co sugeruje, że wysoka jakość nie zawsze musi wiązać się z najwyższą ceną na rynku[cite: 35].*
 
 ---
